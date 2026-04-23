@@ -1,0 +1,8 @@
+transformers==4.38.2
+torch==2.1.2
+torchvision==0.16.2
+peft==0.10.0
+accelerate
+timm
+pillow
+gradio
